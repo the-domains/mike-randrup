@@ -1,0 +1,28 @@
+name: Mike Randrup
+favicon: null
+layout_spectrum: 0.6260846625082195
+typography_spectrum: 0.31476285052485764
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.264406863367185
+  lightness: 0.296070349868387
+  saturation: 0.14784922823309898
+  rhythmicContrast: 0.6800550469197333
+purpose: []
